@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">GetPekt</string>
+    <string name="facebook_app_id">116237478707704</string>
+
+    <string name="Or">OR</string>
+    <string name="Sign_in">Sign in with your account</string>
+    <string name="Login">Login</string>
+    <string name="Username">E-Mail</string>
+    <string name="Password">Password</string>
+    <string name="New">Create a new account</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_account">Please enter the following information to create an account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+
+    <string name="hint_name">Full name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered? Login now.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Full Name</string>
+
+
+    <string name="submit">Submit</string>
+
+    <string name="events">Events</string>
+    <string name="profile">Profile</string>
+    <string name="contacts">Contacts</string>
+    <string name="settings">Settings</string>
+
+    <string name="phone">Please enter your mobile number below,\nso friends can easily find you in the app.</string>
+    <string name="country">country code</string>
+    <string name="number">phone number</string>
+
+    <string name="event_name">Event Name</string>
+    <string name="event_date">Date (DD-MM-YYYY)</string>
+    <string name="event_icon">Icon</string>
+    <string name="event_time">Time (HH:MM)</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="event_create">Create Event</string>
+
+    <string name="date_div">-</string>
+    <string name="time_div">:</string>
+
+    <string name="also">Contacts who also use GetPekt:</string>
+
+    <string name="eContacts">Participants</string>
+    <string name="add_participants">Add Participants</string>
+    <string name="save">Save Changes</string>
+
+    <string name="title_activity_login">GetPekt</string>
+    <string name="title_activity_main">GetPekt</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_new_account">Register</string>
+    <string name="title_activity_create">Create an Event</string>
+    <string name="title_activity_phone">Phone Registration</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_add_contacts">Add Contacts</string>
+    <string name="title_activity_info">Event Information</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="title_activity_crop">Crop Your Image</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

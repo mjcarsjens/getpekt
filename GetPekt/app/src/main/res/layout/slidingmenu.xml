@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_register">
+
+    <Button
+        android:id="@+id/btnEvents"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/events"
+        android:textColor="@color/white"
+        android:layout_marginBottom="2dp"/>
+
+    <View style="@style/Divider"/>
+
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/settings"
+        android:textColor="@color/white"
+        android:layout_marginBottom="2dp"/>
+
+    <View style="@style/Divider"/>
+
+</LinearLayout>
